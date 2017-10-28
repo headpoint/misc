@@ -14,3 +14,4 @@ plot_contour(fit, iris[, -5])
 ```
 
 
+![Contours using the fitted mixture model parameters.](plot.png)
