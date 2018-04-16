@@ -1,6 +1,6 @@
 # Description of files 
 
-**plot_contour** - given a normal mixture model and data, this function fits contours of the components. 
+**plot_contour** - given a normal mixture model and data, this function fits contours of the components. It uses functions from the `ggplot2` package and the `GGally` package.
 
 Fit a mixture model using EMMIX R package
 ```
